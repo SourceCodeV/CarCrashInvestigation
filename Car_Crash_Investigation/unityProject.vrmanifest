@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.car_crash_investigation.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\SKIKK\\Documents\\GitHub\\CarCrashInvestigation\\Car_Crash_Investigation\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Car_Crash_Investigation [Testing]"
+        }
+      }
+    }
+  ]
+}
